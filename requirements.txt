@@ -1,0 +1,12 @@
+argparse
+pandas
+matplotlib
+jellyfish
+numpy<2
+scikit-learn
+pandas
+torch==2.0.1+cu118
+torch-geometric==2.6.1
+torchaudio==2.0.2+cu117
+torchmetrics==1.4.1
+torchvision==0.15.2+cu117
