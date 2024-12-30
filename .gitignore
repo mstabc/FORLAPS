@@ -1,0 +1,7 @@
+*.csv
+*.xes
+*.png
+*.pth
+*.parquet
+*.pkl
+
